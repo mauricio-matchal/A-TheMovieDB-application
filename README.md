@@ -1,5 +1,3 @@
-Teste
-
 # Atividade de Núcleo
 
 ## Informações principais
